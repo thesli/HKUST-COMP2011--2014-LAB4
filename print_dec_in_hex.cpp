@@ -1,4 +1,6 @@
 
+/*HELLLO FOR JASPAR*/
+
 /**
  * print_dec_in_hex.cpp
  */
@@ -13,7 +15,7 @@
 
 using namespace std;
 
-/**
+dsadsdsadsaa/**
 *function@ Given decimal number, calculate bit k of its corresponding hexadecimal
 *function@ return value 0-15
 */
